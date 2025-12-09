@@ -1,0 +1,28 @@
+PORTFOLIO RISK REPORT
+=======================
+
+Starting Portfolio Value: $10,832.45
+
+Tickers & Weights:
+ - VOO: 29.03%
+ - SCHD: 25.42%
+ - VUG: 45.56%
+
+Positions:
+ - VOO: 5.0 shares, DCA $500.00
+ - SCHD: 100.0 shares, DCA $24.50
+ - VUG: 10.0 shares, DCA $200.00
+
+RISK METRICS
+Annual Return: 0.1582
+Annual Volatility: 0.1771
+Sharpe Ratio: 0.8934
+Max Drawdown: -0.2700
+Historical Var: -0.0169
+Parametric Var: -0.0178
+Cvar: -0.0257
+
+MONTE CARLO PROJECTION
+Worst-case (5th percentile): $15,055.38
+Median (50th percentile): $40,650.44
+Best-case (95th percentile): $106,360.57
